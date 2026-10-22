@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2268e87a-ccbd-4846-b581-36383a0f55c8</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ProgAlused_26.py</StartupFile>
+    <StartupFile>too1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="parktiline töö.py" />
     <Compile Include="ProgAlused_26.py" />
+    <Compile Include="too1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
